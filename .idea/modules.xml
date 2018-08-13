@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../14-thymeleaf-exercise001/14-thymeleaf-exercise001.iml" filepath="$PROJECT_DIR$/../14-thymeleaf-exercise001/14-thymeleaf-exercise001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14-thymeleaf-exersices002/14-thymeleaf-exersices002.iml" filepath="$PROJECT_DIR$/../14-thymeleaf-exersices002/14-thymeleaf-exersices002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../15-thymeleaf-type/15-thymeleaf-type.iml" filepath="$PROJECT_DIR$/../15-thymeleaf-type/15-thymeleaf-type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThymeleafExercise.iml" filepath="$PROJECT_DIR$/ThymeleafExercise.iml" />
+    </modules>
+  </component>
+</project>
